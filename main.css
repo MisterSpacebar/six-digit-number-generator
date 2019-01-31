@@ -5,6 +5,7 @@
 
 .jumbotron {
   background-color: lightgray;
+  text-align: center;
 }
  
  h2 {
@@ -18,8 +19,10 @@
  
  #make-number {
    margin: 0 auto;
+   display: inline-block;
  }
  
  #remake {
    margin: 0 auto;
+   display: inline-block;
  }
