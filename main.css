@@ -1,7 +1,11 @@
 .container {
   width: 1024px;
-  text-align-center;
+  text-align: center;
  }
+
+.jumbotron {
+  display: inline-block;
+}
  
  h2 {
   text-align: center;
