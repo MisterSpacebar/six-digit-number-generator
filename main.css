@@ -16,9 +16,9 @@
  }
  
  #make-number {
-  display: inline-block;
+  text-align: center;
  }
  
  #remake {
-  display: inline-block
+  text-align: center;
  }
